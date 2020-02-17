@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About #include
+title: About include
 tags: [about]
 date: 2017-03-08
 comments: false
