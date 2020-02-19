@@ -30,10 +30,10 @@ Plusieurs projets à venir concernent cependant de la sensibilisation en dehors 
 
 Autant que possible.
 
+#### Contre quels types de discriminations l'association se mobilise-t-elle ? 
 
-#### Les prérogatives de l’association ayant évoluées, des actions sont-elles prévues pour lutter contre le racisme ?
-
-Dans l’idéal, oui. #include souhaiterait avoir le plus de diversité possible dans ses équipes afin de mettre en place des projets sur les différents types de discrimination que peuvent rencontrer les étudiant·e·s.
+Le sexisme et les lgbti-phobies sont le principal champ d'action actuel de l'association.
+Souhaitant ajouter à ces luttes celles contre le racisme et le validisme, entre autres, sans pour autant prendre la place de concerné·e·s, #include prévoit d'apporter le plus de diversité possible dans ses équipes afin de mettre en place des projets sur les différents types de discrimination que peuvent rencontrer les étudiant·e·s.
 
 #### C’est quand les adhésions ?
 
