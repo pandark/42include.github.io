@@ -15,5 +15,7 @@ comments: false
 ## Projets
 
 ## Contact
-
-   {% include social-links.html %}
+<h3 class="title" style="font-size:30px;">
+    <a class="social-btn" href="mailto:contact@42include.me" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
+    <a class="social-btn" href="http://instagram.com/42include" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-instagram"></i></a>
+</h3>
