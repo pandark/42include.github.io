@@ -33,7 +33,8 @@ Autant que possible.
 #### Contre quels types de discriminations l'association se mobilise-t-elle ? 
 
 Le sexisme et les lgbti-phobies sont le principal champ d'action actuel de l'association.
-Souhaitant ajouter à ces luttes celles contre le racisme et le validisme, entre autres, sans pour autant prendre la place de concerné·e·s, #include prévoit d'apporter le plus de diversité possible dans ses équipes afin de mettre en place des projets sur les différents types de discrimination que peuvent rencontrer les étudiant·e·s.
+D'autres luttes, telles que celles contre le racisme et le validisme, font partie des préoccupations de l'association.
+Néanmoins, ne voulant pas prendre la place de concerné·e·s, #include prévoit d'apporter le plus de diversité possible dans ses équipes afin de mettre en place des projets sur les différents types de discrimination que peuvent rencontrer les étudiant·e·s.
 
 #### C’est quand les adhésions ?
 
