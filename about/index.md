@@ -15,3 +15,5 @@ comments: false
 ## Projets
 
 ## Contact
+
+   {% include social-links.html %}
