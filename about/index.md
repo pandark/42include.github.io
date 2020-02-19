@@ -46,7 +46,7 @@ Soucieuse de l'intégration des plus précaires, `#include` tient à ce que l'en
 C'est pourquoi les adhésions sont le principal financement de l'association.
 Elles sont à prix libre à partir de 4€, et permettent de financer ces activités et les différents frais de fonctionnement.
 
-_Les adhésions sont possibles en liquide lors d'événements ou en nous contactant directement ou directement [en ligne](https://www.helloasso.com/associations/include/adhesions/adhesion-2019)._
+_Les adhésions sont possibles en liquide lors d'événements, en nous contactant directement ou encore [en ligne](https://www.helloasso.com/associations/include/adhesions/adhesion-2019)._
 
 
 
