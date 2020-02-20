@@ -4,7 +4,6 @@ title: "[Podcast-Débat] Épisode 0 : le syndrome de l'imposteur"
 date: 2020-01-17
 excerpt: ""
 tags: [podcast, imposteur, syndrome, debat, episode]
-feature: https://images.squarespace-cdn.com/content/v1/5a8f53d83917ee32087ce6fb/1546516304779-ZBP3FWYLEH5ZXIBWJO7P/ke17ZwdGBToddI8pDm48kLVI2cji2jjG6pa5kmiDtgAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcCVdb3v1App1I4RpKBG0RIFCefvKERvZWh_yZcZ4G_uHxuNfPjQ9eBb-L1CHgdJ5y/Emotions.png
 comments: false
 ---
 
