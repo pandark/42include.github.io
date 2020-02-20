@@ -20,23 +20,23 @@ Confrontée régulièrement à des problématiques liées mais ne correspondant 
 
 ## Moyens d'action
 
-* **Accueil et écoute lors des piscines de sélection**
+#### **Accueil et écoute lors des piscines de sélection**
 
 Depuis sa création, l’association propose lors de chaque piscine, une veille d'écoute et un accompagnement pour les personnes susceptibles de subir des discriminations.
 Des équipes mixtes et variées de bénévoles sont constituées pour assurer une disponibilité durant tout le mois de piscine.
 
-* **Team-building** 
+#### **Team-building** 
 
 Nous croyons que la cohésion est un élément important pour maintenir un environnement de travail serein.
 C'est pourquoi, ponctuellement, l'association organise des événements de team-building sportifs ou non en mixité choisie.
 
-* **Accompagnement d'autres associations**
+#### **Accompagnement d'autres associations**
 
 Afin de soutenir le milieu associatif, les membres de l'association ont à coeur d'accompagner et encourager les autres associations étudiantes de 42 vers plus de mixités et diversités lors de leurs événements et activités.
 
-* **Conférences et diffusions de médias**
-* **Débats**
-* **Mise à disposition de livres pour les adhérent·e·s**
+#### **Conférences et diffusions de médias**
+#### **Débats**
+#### **Mise à disposition de livres pour les adhérent·e·s**
 
 D'autres actions très variées sont menées tout au long de l'année. 
 Pour plus d'informations, n'hésitez pas à nous contacter.
