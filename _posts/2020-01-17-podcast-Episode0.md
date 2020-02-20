@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast-Débat - Épisode 0 : le syndrome de l'imposteur"
+title: "[Podcast-Débat] Épisode 0 : le syndrome de l'imposteur"
 date: 2020-01-17
 excerpt: ""
 tags: [podcast, imposteur, syndrome, debat, episode]
