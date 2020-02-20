@@ -25,7 +25,7 @@ Confrontée régulièrement à des problématiques liées mais ne correspondant 
 Depuis sa création, l’association propose lors de chaque piscine, une veille d'écoute et un accompagnement pour les personnes susceptibles de subir des discriminations.
 Des équipes mixtes et variées de bénévoles sont constituées pour assurer une disponibilité durant tout le mois de piscine.
 
-* **Team-building** 
+#### **Team-building** 
 
 Nous croyons que la cohésion est un élément important pour maintenir un environnement de travail serein.
 C'est pourquoi, ponctuellement, l'association organise des événements de team-building sportifs ou non en mixité choisie.
