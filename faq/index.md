@@ -6,9 +6,13 @@ date: 2020-02-19
 comments: false
 ---
 # Foire Aux Questions
+
+#### Qui peut intégrer l'association ?
+Toute personne appartenant au réseau d'école [42network](https://www.42.fr/42-network/).
+
 #### Quel est le volume horaire d’un projet ?
 
-Le volume est très variable. L’adhésion ne requiert pas de temps de présence minimum.
+Le volume est très variable. L’adhésion ne requiert pas de temps de présence minimum ni de participation obligatoire.
 Certains projets réclament une implication sur du moyen terme (par exemple le bénévolat pendant les piscines d’été), d’autres sont ponctuels et extrêmement courts (comme encadrer un événement ou tenir un stand d'information).
 
 #### L’association recherche-t-elle de nouvelles personnes pour le bureau et CA ?
