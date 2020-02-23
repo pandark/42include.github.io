@@ -3,7 +3,7 @@ layout: post
 title: "[Podcast-Débat] Épisode 0 : le syndrome de l'imposteur"
 date: 2020-01-17
 excerpt: ""
-tags: [podcast, imposteur, syndrome, debat, episode]
+tags: [podcast, imposteur, syndrome, debat, episode, 2020]
 comments: false
 ---
 
@@ -55,7 +55,3 @@ Un questionnement revient régulièrement dans la discussion :  _« suis-je apte
 
 Le format en petit comité de l’événement, mêlant plusieurs promotions et profils d’étudiant·e·s, a permis une parole simple et décomplexée et des échanges bienveillants oscillants entre témoignages et conseils.
 Nous allons donc réfléchir au sein d’#include à organiser, en plus du Podcast-Débat dont le sujet change chaque mois, des petits moments d’échanges semblables en groupe réduit.
-
-
-
-
