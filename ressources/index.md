@@ -86,7 +86,7 @@ comments: false
 
 ### Archives
 
-+ [Ada Initiative](https://adainitiative.org/) | Supporting women in open technology and culture 2011–2015 
++ [Ada Initiative](https://adainitiative.org/) Supporting women in open technology and culture 2011–2015 
 + [Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/Geek_Feminism_Wiki) 
 
 ### Vie privée
