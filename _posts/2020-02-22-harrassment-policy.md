@@ -35,7 +35,7 @@ Ce code de conduite s'applique à tous les espaces de l'association, incluant no
 + l'attention sexuelle non-consentie,
 + tout contact social inapproprié,
 + continuer des discussions individuelles après demandes d'arrêter,
-+ l'`outing` volontaire de tout aspect de l'identité d'une personne sans son consentement (par exemple dévoiler l'orientation sexuelle ou l'identité de genre d'une personne),
++ l'*outing* volontaire de tout aspect de l'identité d'une personne sans son consentement (par exemple dévoiler l'orientation sexuelle ou l'identité de genre d'une personne),
 + la publication de communications privées.
 
 Au sein d'`#include`, la sécurité des personnes marginalisées est une priorité par rapport au confort des personnes privilégiées.
