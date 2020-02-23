@@ -10,7 +10,7 @@ comments: false
 
 <!-- ### Code de conduite - Politique anti-harcèlement -->
 
-`#include` est une association loi 1901 conçue dans le but de créer et promouvoir des espaces et expériences sans harcèlement ni discrimination parmi l'école 42 et l'échosytème tech en général.
+`#include` est une association loi 1901 conçue dans le but de créer et promouvoir des espaces et expériences sans harcèlement ni discrimination parmi l'école 42 et l'écosytème tech en général.
 
 `#include` s'engage à fournir une expérience sans harcèlement, sans égard au genre, à l'identité ou expression de genre, à l'orientation sexuelle, aux handicaps, à l'apparence physique, à la taille ou au poids, à l'âge, à l'ethnie, à la religion ou à l'origine sociale. Nous ne tolérons aucune forme ou de harcèlement à l'égard de nos membres, adhérent·e·s ni participant·e·s à nos évenements et échanges hors-ligne ou en ligne.
 
@@ -41,16 +41,16 @@ Ce code de conduite s'applique à tous les espaces de l'association, incluant no
 Au sein d'`#include`, la sécurité des personnes marginalisées est une priorité par rapport au confort des personnes privilégiées.
 
 L'équipe en charge de l'application de ce code de conduite se garde le droit de ne pas réagir aux plaintes concernants :
-    + le racisme anti-blanc, le sexisme inversé, la cisphobie, l'hétérophobie ou tout autre discrimination inversée,
-    + l'expression raisonnable des limites personnelles,
-    + l'utilisation d'un ton qui ne vous semble pas agréable ou sympathique,
-    + les critiques des discriminations.
++ le racisme anti-blanc, le sexisme inversé, la cisphobie, l'hétérophobie ou tout autre discrimination inversée,
++ l'expression raisonnable des limites personnelles,
++ l'utilisation d'un ton qui ne vous semble pas agréable ou sympathique,
++ les critiques des discriminations.
 
 ------ 
 
 ## Signaler un cas de harcèlement
 
-Si vous êtes victimes ou témoins de harcèlement de la part d'un membre de l'association ou d'une personne associée à ses activités, merci de contacter l'équipe en charge de l'application de ce code de conduite à l'adresse harcèlement@42include.me. Si la personne qui vous harcèle est un membre de cette équipe, la gestion du problème ne lui sera pas permise. Nous répondrons aussi vite que possible.
+Si vous êtes victimes ou témoins de harcèlement de la part d'un membre de l'association ou d'une personne associée à ses activités, merci de contacter l'équipe en charge de l'application de ce code de conduite à l'adresse *harcelement@42include.me*. Si la personne qui vous harcèle est un membre de cette équipe, la gestion du problème ne lui sera pas permise. Nous répondrons aussi vite que possible.
 
 Ce code de conduite est destiné à s'appliquer dans les espaces physiques et virtuels utilisés par `#include`. Si vous constatez ou subissez du harcèlement de la part d'un de ses membres en dehors de ces espaces, vous êtes invité·e·s à nous le signaler. Nous prendrons en compte toute remarque et agirons en conséquence, en particulier s'il s'agit d'un des membres du conseil d'administration de l'association. L'équipe se réserve le droit d'exclure tout membre de l'association en raison de harcèlement, qu'il ait eu lieu au sein ou en dehors de ses événements et espaces de communication.
 
