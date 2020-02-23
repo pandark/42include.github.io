@@ -2,10 +2,13 @@
 layout: post
 title: 'Ressources && Liens utiles'
 tags: [ressources, groupes]
+excerpt: ""
 date: 2020-02-19
 ressources : true
 comments: false
 ---
+
+
 - [Groupes](#groupes)
   - [Informatique / tech](#informatique--tech)
   - [Logiciel Libre](#logiciel-libre)
