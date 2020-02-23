@@ -50,7 +50,7 @@ L'équipe en charge de l'application de ce code de conduite se garde le droit de
 
 ## Signaler un cas de harcèlement
 
-Si vous êtes victimes ou témoins de harcèlement de la part d'un membre de l'association ou d'une personne associée à ses activités, merci de contacter l'équipe en charge de l'application de ce code de conduite à l'adresse *harcelement@42include.me*. Si la personne qui vous harcèle est un membre de cette équipe, la gestion du problème ne lui sera pas permise. Nous répondrons aussi vite que possible.
+Si vous êtes victimes ou témoins de harcèlement de la part d'un membre de l'association ou d'une personne associée à ses activités, merci de contacter l'équipe en charge de l'application de ce code de conduite à l'adresse *[harcelement@42include.me](mailto:harcelement@42include.me). Si la personne qui vous harcèle est un membre de cette équipe, la gestion du problème ne lui sera pas permise. Nous répondrons aussi vite que possible.
 
 Ce code de conduite est destiné à s'appliquer dans les espaces physiques et virtuels utilisés par `#include`. Si vous constatez ou subissez du harcèlement de la part d'un de ses membres en dehors de ces espaces, vous êtes invité·e·s à nous le signaler. Nous prendrons en compte toute remarque et agirons en conséquence, en particulier s'il s'agit d'un des membres du conseil d'administration de l'association. L'équipe se réserve le droit d'exclure tout membre de l'association en raison de harcèlement, qu'il ait eu lieu au sein ou en dehors de ses événements et espaces de communication.
 
@@ -68,4 +68,4 @@ L'équipe en charge du harcèlement au sein d'`#include` prendra toutes les mesu
 
 ## Licence et attribution
 
-Cette charte est utilisée sous les termes de la licence Creative Commons Zero et basée sur l'exemple fournie par Geek Feminism wiki, créée par la communauté Geek Feminism. 
+Cette charte est utilisée sous les termes de la licence [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) et basée sur l'exemple fournie par [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Community_anti-harassment), créée par la communauté [Geek Feminism](https://geekfeminism.wikia.org/wiki/Geek_Feminism_Wiki). 
