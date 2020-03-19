@@ -28,8 +28,8 @@ layout: compress
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
                     {% else if page.ressources %}
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    <!-- {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/"> -->
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>
@@ -44,6 +44,8 @@ layout: compress
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
 </body>
 </html>
