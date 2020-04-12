@@ -4,7 +4,7 @@ title: 'Code de conduite - Politique anti-harcèlement'
 tags: [harcèlement, code de conduite, groupes]
 excerpt: ""
 date: 2020-02-19
-ressources : true
+ressource : true
 comments: false
 ---
 
@@ -47,10 +47,16 @@ L'équipe en charge de l'application de ce code de conduite se garde le droit de
 + les critiques des discriminations.
 
 ------ 
-
+<style type="text/css">
+    .e-mail:before {
+        content: attr(data-website) "\0040" attr(data-user);
+        unicode-bidi: bidi-override;
+        direction: rtl;
+    }
+</style>
 ## Signaler un cas de harcèlement
 
-Si vous êtes victimes ou témoins de harcèlement de la part d'un membre de l'association ou d'une personne associée à ses activités, merci de contacter l'équipe en charge de l'application de ce code de conduite à l'adresse  [harcelement@42include.me](mailto:harcelement@42include.me). Si la personne qui vous harcèle est un membre de cette équipe, la gestion du problème ne lui sera pas permise. Nous répondrons aussi vite que possible.
+Si vous êtes victimes ou témoins de harcèlement de la part d'un membre de l'association ou d'une personne associée à ses activités, merci de contacter l'équipe en charge de l'application de ce code de conduite à l'adresse  [ <span class="e-mail" data-user="tnemelecrah" data-website="em.edulcni"></span>](&#109;&#97;&#105;&#108;&#116;&#111;&#58;%68%61%72%63%65%6C%65%6D%65%6E%74%40%34%32%69%6E%63%6C%75%64%65%2E%6D%65). Si la personne qui vous harcèle est un membre de cette équipe, la gestion du problème ne lui sera pas permise. Nous répondrons aussi vite que possible.
 
 Ce code de conduite est destiné à s'appliquer dans les espaces physiques et virtuels utilisés par `#include`. Si vous constatez ou subissez du harcèlement de la part d'un de ses membres en dehors de ces espaces, vous êtes invité·e·s à nous le signaler. Nous prendrons en compte toute remarque et agirons en conséquence, en particulier s'il s'agit d'un des membres du conseil d'administration de l'association. L'équipe se réserve le droit d'exclure tout membre de l'association en raison de harcèlement, qu'il ait eu lieu au sein ou en dehors de ses événements et espaces de communication.
 
